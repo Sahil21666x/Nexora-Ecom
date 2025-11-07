@@ -7,6 +7,32 @@ Full-stack simple e-commerce demo built with:
 
 ---
 
+# Screenshots
+
+![Home Page](./screenshots/Screenshot%202025-11-07%20213734.png)
+*Home Page with Product Listing*
+
+![Product Details](./screenshots/Screenshot%202025-11-07%20213840.png)
+*Product Details View*
+
+![Shopping Cart](./screenshots/Screenshot%202025-11-07%20213849.png)
+*Shopping Cart*
+
+![Checkout Step 1](./screenshots/Screenshot%202025-11-07%20213903.png)
+*Checkout Process - Step 1*
+
+![Checkout Step 2](./screenshots/Screenshot%202025-11-07%20213911.png)
+*Checkout Process - Step 2*
+
+![Order Summary](./screenshots/Screenshot%202025-11-07%20213937.png)
+*Order Summary*
+
+![Payment](./screenshots/Screenshot%202025-11-07%20213952.png)
+*Payment Information*
+
+![Order Confirmation](./screenshots/Screenshot%202025-11-07%20214006.png)
+*Order Confirmation*
+
 ## Quick overview
 This repository contains a small e-commerce demo designed for learning and prototyping. It has:
 - Product listing (fetched or proxied from a mock API)
